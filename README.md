@@ -1,2 +1,2 @@
-# HTML-CSS
- Site_curso_html_e_CSS
+# HTML-CSS-JavaScript
+ Site desenvolvido no curso EuProgramdo da Programaria.
